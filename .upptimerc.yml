@@ -1,7 +1,7 @@
 # Change these first
 owner: kurry-social
 repo: ServerStatus
-user-agent: "kurrysocial status checkbot"
+user-agent: koj-ss-kurry
 
 sites:
   - name: Web
