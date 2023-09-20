@@ -8,6 +8,10 @@ sites:
     url: https://kurry.social/about
   - name: API
     url: https://kurry.social/api/v2/instance
+  - name: Streaming
+    url: wss://kurry.social/api/v1/streaming/
+    expectedStatusCodes:
+      - 101
   - name: CDN
     url: https://cdn01.kurry.gallery/site_uploads/files/000/000/003/@1x/f0cbefc3a0fb23d4.png
 
