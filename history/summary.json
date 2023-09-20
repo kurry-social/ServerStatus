@@ -4,36 +4,40 @@
     "url": "https://kurry.social/about",
     "icon": "https://icons.duckduckgo.com/ip3/kurry.social.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 789,
-    "timeWeek": 757,
-    "timeMonth": 684,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 701,
+    "timeDay": 678,
+    "timeWeek": 733,
+    "timeMonth": 680,
+    "timeYear": 701,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   },
   {
     "name": "API",
     "url": "https://kurry.social/api/v2/instance",
     "icon": "https://icons.duckduckgo.com/ip3/kurry.social.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 162,
-    "timeWeek": 174,
+    "time": 209,
+    "timeDay": 174,
+    "timeWeek": 175,
     "timeMonth": 174,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   },
   {
     "name": "CDN",
